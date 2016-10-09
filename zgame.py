@@ -53,3 +53,7 @@ while(1):
 		raw_input("Press enter to close")
 		quit()
 	
+'''
+1. Mention controls for the game.
+
+'''
